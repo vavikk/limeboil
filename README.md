@@ -26,9 +26,9 @@ Also
 
 Example:
 ---------------------
-(http://vitaliejerebnii.com/experiments/limeboil/)
+[Example1](http://vitaliejerebnii.com/experiments/limeboil/)  
 
 Thanks:
 ---------------------
 Inspired by Lemonade grid system.
-(https://github.com/dope/lemonade) 
+https://github.com/dope/lemonade
