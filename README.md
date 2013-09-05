@@ -15,12 +15,20 @@ Adding content:
     </div>    
 
 will create 2 columns, each column will have a 50% width
-
+Also
+--------------------
+`.container` - 1200px wide container  
+`.w980` - width:980px  
+`.w960` - hm, for some project I use 960px, can't remember why   
 `.right` - will float right  
 `.resp `- will make the image responsive   
 `.disabled` - will disable the element  
 
- Thanks:
+Example:
+---------------------
+(http://vitaliejerebnii.com/experiments/limeboil/)
+
+Thanks:
 ---------------------
 Inspired by Lemonade grid system.
- 
+(https://github.com/dope/lemonade) 
