@@ -1,26 +1,26 @@
-limeboil
+Limeboil
 ========
 Lightweight and responsive css grid system.
 
 <h2>Usage:</h2>
 
 Add the link to your html file: 
-<code> <link rel="stylesheet" type="text/css" href="limeboil.css"></code>
+        `<link rel="stylesheet" type="text/css" href="limeboil.css"> `
 
-<h2>Adding content:</h2>
-<code>
-<div class="box">              
-    <div class="col-2">Some content</div>
-    <div class="col-2">Some content</div>     
-</div>
-</code>
+Adding content:
+---------------------
+    <div class="box">       
+     <div class="col-2">Some content</div>   
+     <div class="col-2">Some content</div>  
+    </div>    
 
-will create 2 columns, each column will hae a 50% width
+will create 2 columns, each column will have a 50% width
 
-.right - will fload right
-.resp - will make the image responsive 
-.disabled - will disable the element
+`.right` - will float right  
+`.resp `- will make the image responsive   
+`.disabled` - will disable the element  
 
-<h2> Thanks:</h2>
+ Thanks:
+---------------------
 Inspired by Lemonade grid system.
-
+ 
