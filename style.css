@@ -1,0 +1,26 @@
+body{font-family: 'Lato', sans-serif; }
+header{
+    display:block;
+    
+    text-align:center;
+    padding:40px;
+}
+header h1{
+    color:rgba(153, 195, 57, 1);
+    font-size:4em;
+}
+header p{
+    color:#252525;
+    font-size:2em;
+    
+}
+.line{
+text-align:center;
+color:white;
+background:rgba(153, 195, 57, 1);
+padding:10px;
+    
+
+}
+.h150{height:150px;
+line-height:150px;}
