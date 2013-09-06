@@ -24,6 +24,15 @@ Also
 `.resp `- will make the image responsive   
 `.disabled` - will disable the element  
 
+Responsive Video (Using Iframe)
+------------------------------------
+`.video` - responsive video using iframe  
+Use the ifrme inside the video class :          
+          `<div class="video">`   
+                   `<iframe src="//player.vimeo.com/video/36103466"></iframe>`     
+           `</div>`   
+
+
 Example:
 ---------------------
 [Example1](http://vitaliejerebnii.com/experiments/limeboil/)  
