@@ -26,7 +26,7 @@ Also
 `.w980` - width:980px  
 `.w960` - hm, for some project I use 960px, can't remember why   
 `.right, .r-` - will float right  
-`.left, .l-` - will float right  
+`.left, .l-` - will float left 
 `.resp `- will make the image responsive   
 `.disabled` - will disable the element  
 
