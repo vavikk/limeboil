@@ -17,7 +17,7 @@ Adding content:
 will create 2 columns, each column will have a 50% width
 Add -number to set up the width
 --------------------
-class="anything-1..12"  - a class ending with -1..12 wil get the proper with  
+class="anything-1..12"  - a class ending with -1..12 wil get the proper width  
 `<div class="anything-here-2">This is 50% of the screen</div>` - the class name ends with "-2" it means that it has the 50% width  
 `<div class="r-3">r: float-right, -3: </div>` - r- will float right, -3 will sett the width to 30%  
 Also
