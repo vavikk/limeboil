@@ -15,6 +15,10 @@ Adding content:
     </div>    
 
 will create 2 columns, each column will have a 50% width
+Add -number to set up the width
+--------------------
+`<div class="anything-here-2">This is 50% of the screen</div>` - the class name ends with "-2" it means that it has the 50% width
+
 Also
 --------------------
 `.container` - 1200px wide container  
